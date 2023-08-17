@@ -2,7 +2,9 @@
 
 const Home = () =>{
     return (
-        <p>Hello From Home</p>
+        <div>        <p>Hello From Home</p>
+        <h1>umeshpatil</h1>
+        </div>
     )
 
      
